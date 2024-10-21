@@ -55,7 +55,7 @@ berikut link ngrok untuk membuka API ke internet
 ![](public/image/ngrok.jpg)
 
 berikut link ngrok nya
-https://aad8-125-166-116-197.ngrok-free.app/api/bukus
+https://59d0-103-164-60-13.ngrok-free.app/api/bukus
 
 ## About Laravel
 
