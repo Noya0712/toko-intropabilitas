@@ -54,6 +54,9 @@ membuat endpoint baru, untuk tantangan tersendiri yaitu pengalaman pengguna yang
 berikut link ngrok untuk membuka API ke internet
 ![](public/image/ngrok.jpg)
 
+berikut link ngrok nya
+https://aad8-125-166-116-197.ngrok-free.app/api/bukus
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
